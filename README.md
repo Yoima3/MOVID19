@@ -1,5 +1,13 @@
-# MOVID-19
+![](static/banner.png)
+
+# MOVID19
+
 Hackatón para buscar soluciones al reto del Covid-19 en transporte público.
+
+## Anuncio Ganadores
+
+![](static/ganadores.jpg)
+
 
 ## ¿Qué es?
 
@@ -17,19 +25,27 @@ Se espera que el análisis de los datos sobre COVID-19 y movilidad en Bogotá, p
 
 Te puedes inscribir en cualquier momento antes de la fecha límite de envío de soluciones descrita en el [cronograma](#cronograma)
 
+## Pregunta
+
+> Con análisis de datos y posibilidad de monitoreo de impacto, ¿qué intervenciones pueden implementarse para mejorar la movilidad de Bogotá, reducir la probabilidad de contagio de virus Covid-19 y focalizar el servicio a quienes irremediablemente deben usarlo?
+
+A partir de análisis de datos que predigan un mejoramiento y permitan un monitoreo de su impacto positivo ¿Cómo se puede mejorar la calidad de la movilidad en Bogotá, reduciendo la probabilidad de contagio de virus Covid-19 e incrementando la facilidad para quienes obligatoriamente tienen que usar el servicio, principalmente personas que trabajan en el sector de salud? El gran reto es que el transporte público tiene finanzas muy “justas”, lo que hace difícil tomar medidas grandes como incrementar la flota sustancialmente. Otro reto es que no se puede dejar de prestar este servicio que es esencial y del cual depende una proporción muy alta de la ciudadanía, en particular muchas personas que prestan servicios que no se pueden realizar virtualmente. Un último reto es que no es viable promover el uso de modos como el automóvil pues el acceso a este es mucho menor (y si se comparte el automóvil se genera el mismo problema de contagio), y la bicicleta sí es muy efectiva pero no para toda la población (pues algunas personas viven muy lejos o no pueden andar en bicicleta). Los viajes en carro son poco eficientes y hay poca disponibilidad en la ciudad.
+
+
+
 ## Reglamento
 
-Acá puede acceder al documento completo (pdf)[] con los términos y condiciones. A continuación un resumen sobre los temas importantes.
+Acá puede acceder al documento completo [pdf](/static/tyc-movid19.pdf) con los términos y condiciones. A continuación un resumen sobre los temas importantes.
 
-### Premio
+### Reconocimiento
 
 **1000 USD** 
 
 Repartidos así entre los ganadores:
 
-1. $750 USD al ganador
-1. $150 USD al segundo lugar
-1. $100 USD al tercer lugar
+1. $950 USD al ganador
+1. $250 USD al segundo lugar
+1. $150 USD al tercer lugar
 
 
 ### Jurados
@@ -62,8 +78,9 @@ En [esta página](faq/datos.md) estaremos publicando todos los datos que puedan 
 
 ## Cronograma
 
-Agrega este [calendario](https://calendar.google.com/calendar?cid=bnVtby5nbG9iYWxfMmZlMnZtaHZmdGltdjdnaDhhZXVxMjJ0bm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+Agrega este [calendario de Google](https://calendar.google.com/calendar?cid=bnVtby5nbG9iYWxfMmZlMnZtaHZmdGltdjdnaDhhZXVxMjJ0bm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+Descarga Calendario [ics](/static/invite.ics)
 
 **Inscripciones:** Desde el jueves 19 a las 6pm.
 
@@ -80,10 +97,19 @@ Agrega este [calendario](https://calendar.google.com/calendar?cid=bnVtby5nbG9iYW
 
 ![](./static/cronograma.jpg)
 
-## Webinar y conversaciones
+## Webinars y conversaciones
 
 Durante la Hackaton estaremos teniendo conversaciones virtuales sobre temas relevantes. Estaremos actualizando la información aquí y desde las redes de [@datasketch](http://twitter.com/datasketch)
 
+- Primer webinar. Lanzamiento e introducción. [Ver video - 31 mins](https://wri.zoom.us/rec/share/vdNqduvLzWNIXLOX8GLjCqQsN9j1eaa823VMrvQEyHeLDthKUTi5J2VgeJ39OBg)
+- Segundo webinar. Carlos Pardo [Ver video - 58 mins](https://wri.zoom.us/rec/play/tZwkJuGuq2o3GoWXuASDAKd7W9W_Kqus0XVP_aUEnhuyUnkCY1DwMrVBNubPyK7Y8T0SamOnR-ZJ4XNe?startTime=1584731013000)
+- Tercer webinar. Nicolás Estupiñán - Secretario de Movilidad. [Ver video - 20 mins](https://wri.zoom.us/rec/play/upEpdu78_Ts3G9WVtgSDVv95W9Toeq2s1XMc8_IPyk3mUiNVMFvyZuMQMedKvy_ElJZKFeFrtVDcpOc-?continueMode=true). [Leer notas](/faq/notas-webinars.md)
+- Cuarto webinar. Juan Pablo Marín Díaz. Acceso a datos públicos con R. [Descargar video 1:00 hora 200 MB](https://data.datasketch.co/numo/movid19/webinars/meetup-r-movid19.mp4)
+- Quinto webinar. Erik Vergel. Mapatones Bogotá. [Ver video 53 mins](https://wri.zoom.us/rec/play/6Zwqdriqpjg3H4WX4wSDAvMrW43oKPms1HVKqfoKn0m0BnFXNgH3NbsUZI4SHXgRYJeMfLZ8eLVrPi0?continueMode=true)
+- Sexto webinar. Marina Moscoso y José Segundo López. [Ver video 57 mins](https://wri.zoom.us/rec/share/98pMbI3OrVxIGo2W9BzWd_Y7QKXrT6a81nAc-KZezp9FaQ4vJnIqo3CERKoxfic)
+- Séptimo webinar. Juan Pablo Orjuela. Salud Pública. [Ver video 1:02 horas](https://wri.zoom.us/rec/share/-eg2fqHp23lLfqvoyEyAQrEmQNTYX6a8hiFN86UKnRzDx01nLvmaRniaKmT8WbII)
+- Octavo webinar. Eduardo Bayón. Estacionamientos. [Ver video 28 mins](https://wri.zoom.us/rec/share/5fBrHrX16UFLGKPx7UrTC6QZN9ToX6a8gCYerqdZyUx66koQbUaEL8Pu0Bh_Ydc8)
+- Noveno webinar. Carlos Pardo. Ideas conceptuales para Movid [Ver video - ](https://wri.zoom.us/rec/share/-vdvHa_Sp0NITavd9XvtBLIjH5XnX6a81SMZ-vQNz0zJZgXuDWtFIJfXgvjePMsR)
 
 ## Preguntas frecuentes
 
@@ -95,10 +121,11 @@ Si quieres ayudar a difundir consulta [esta página](faq/kit-prensa.md) con imá
 
 ## Organizaciones que apoyan
 
-**[NUMO New Urban Mobility](http://numo.global)** and Alianza con **[Datasketch](https://datasketch.co)** 
+**[NUMO - New Urban Mobility Alliance](http://numo.global)** en alianza con **[Datasketch](https://datasketch.co)** 
 
 
-[GIZ TUMI](http://transformative-mobility.org/) (Armin Wagner, Daniel Moser)
+
+[GIZ TUMI](http://transformative-mobility.org/)
 
 [City Parking](https://city-parking.com/)
 
@@ -109,6 +136,8 @@ Si quieres ayudar a difundir consulta [esta página](faq/kit-prensa.md) con imá
 [Bogotá Cómo Vamos](http://www.bogotacomovamos.org/)
 
 [Transport Studies Unit, University of Oxford](https://www.tsu.ox.ac.uk) Juan Pablo Orjuela
+
+[C40 Cities Finance Facility](https://www.c40cff.org)
 
 Erik Vergel, Arquitectura UniAndes.
 
